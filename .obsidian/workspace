@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "c8fbec1cda276fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "961f4d85e247390b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "750daa8f7e8cf021"
+      },
+      {
+        "id": "360cd861cf55988d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "750daa8f7e8cf021"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faaf23b38e30590a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8200157ec445fd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7602a2c79327b387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09b99c93b27039fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d57449917f0cb6a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "008882193b3b5861",
+    "type": "split",
+    "children": [
+      {
+        "id": "590d10dbc2a188ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c974696259c55f6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "92dab88c38e213e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2b7bf950fd98e609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a75cc823d78c3f01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193
+  },
+  "active": "961f4d85e247390b",
+  "lastOpenFiles": [
+    "neu-panel.html.md",
+    "patrikgrinsvall.github.io/README.md",
+    "patrikgrinsvall.github.io/unsorted/visual-studio-code/vscode.md",
+    "patrikgrinsvall.github.io/handy-video/ffmpeg.md",
+    "patrikgrinsvall.github.io/bookmarks/frontend/index-javascript.md",
+    "patrikgrinsvall.github.io/handy-laravel/database-eloquent.md",
+    "patrikgrinsvall.github.io/bookmarks/web-video-render/index.md",
+    "patrikgrinsvall.github.io/bookmarks/laravel/index.md",
+    "patrikgrinsvall.github.io/bookmarks/scraping/index.md",
+    "Pasted image 20220402012934.png"
+  ]
+}

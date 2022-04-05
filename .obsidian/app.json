@@ -1,0 +1,17 @@
+{
+  "legacyEditor": true,
+  "showFrontmatter": true,
+  "vimMode": false,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "sv"
+  ],
+  "useTab": false,
+  "attachmentFolderPath": "site",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

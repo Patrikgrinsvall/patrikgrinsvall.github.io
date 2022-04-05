@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "patrikgrinsvall.github.io",
+      "color": {
+        "a": 1,
+        "rgb": 2410082
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.00416666666667,
+  "lineSizeMultiplier": 3.48333333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.269662921348315,
+  "repelStrength": 7.97752808988764,
+  "linkStrength": 0.943820224719101,
+  "linkDistance": 54,
+  "scale": 1.0000000000000018,
+  "close": false
+}
